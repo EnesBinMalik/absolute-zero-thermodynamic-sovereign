@@ -17,6 +17,8 @@
 [![Durum](https://img.shields.io/badge/Durum-Tamamland%C4%B1-2EA043?style=for-the-badge)](https://github.com/EnesBinMalik/absolute-zero-thermodynamic-sovereign)
 [![Lisans](https://img.shields.io/badge/Lisans-T%C3%BCm%20Haklar%20Sakl%C4%B1%C4%9F%C4%B1-6E7681?style=for-the-badge)](https://github.com/EnesBinMalik/absolute-zero-thermodynamic-sovereign)
 
+<img src="docs/rozet-enes-ozturk.png" alt="Enes Öztürk imzalı tasarım rozeti" width="420">
+
 </div>
 
 ---
